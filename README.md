@@ -1,4 +1,4 @@
-## Test
+## Code on Local Folder
 Just to add files
 
 git init
@@ -13,7 +13,7 @@ git push -u origin master
 
 git push origin master
 
-
+## Github Changes
 -Switch default branch to master in Github
 
 -Delete main branch
